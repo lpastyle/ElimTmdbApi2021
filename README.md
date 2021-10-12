@@ -1,2 +1,2 @@
 # ElimTmdbApi2021
-Correction TD 
+Corrigé TP ELIM Séance 2 - Consommer une API REST depuis une Application Android 
